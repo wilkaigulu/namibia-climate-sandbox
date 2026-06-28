@@ -1,6 +1,6 @@
 # Namibian Station Audit — NOAA ISD Data Quality Assessment
 
-**Prepared by:** Wilka Igulu, Quantil Risk CC  
+**Prepared by:** Wilka Igulu  
 **Date:** June 2026  
 **Data source:** NOAA NCEI Global Historical Climatology Network Daily (GHCND)  
 **API endpoint:** https://www.ncei.noaa.gov/access/services/data/v1
@@ -33,8 +33,8 @@ https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt
 | Windhoek A | WA007400630 | 1970–1984 | 14.4 | 96.6% | 100.0% | **0.804** |
 | Keetmanshoop | WA004192150 | 1970–1985 | 15.4 | 93.0% | 100.0% | **0.802** |
 | Gobabis | WA007878380 | 1970–2024 | 55.0 | 60.9% | 60.2% | **0.744** |
-| Walvis Bay | WAM00068098 | 1990–2024 | 34.9 | 58.3% | 6.6% | **0.600** ⚠ |
-| Ondangwa | WAM00068006 | 1973–2024 | 51.9 | 35.0% | 15.9% | **0.530** ⚠ |
+| Walvis Bay | WAM00068098 | 1990–2024 | 34.9 | 58.3% | 6.6% | **0.600**  |
+| Ondangwa | WAM00068006 | 1973–2024 | 51.9 | 35.0% | 15.9% | **0.530**  |
 | Lüderitz | — | — | — | — | — | **NOT IN GHCND** |
 
 The Data Quality Score (DQS) is a weighted composite: record length (0.35), 
