@@ -42,6 +42,16 @@ completeness (0.40), and PRCP coverage (0.25). Scores range from 0 to 1.
 
 ---
 
+## Station map
+
+The map below shows the spatial distribution of the seven primary stations 
+across Namibia, colour-coded by DQS tier. Windhoek, Rundu, Mariental, 
+Gobabis, and Keetmanshoop form a reasonable north-south transect through 
+the interior. Walvis Bay provides coastal coverage. Ondangwa is the 
+northernmost station and the weakest in the network by data quality.
+
+![GHCND Station Network — Data Quality Scores](../outputs/figures/station_map.png)
+
 ## Range validation
 
 All retrieved records were checked against physically plausible bounds for 
