@@ -50,7 +50,7 @@ Gobabis, and Keetmanshoop form a reasonable north-south transect through
 the interior. Walvis Bay provides coastal coverage. Ondangwa is the 
 northernmost station and the weakest in the network by data quality.
 
-![GHCND Station Network — Data Quality Scores](../outputs/figures/station_map.png)
+![GHCND Station Network — Data Quality Scores](/outputs/figures/station_map.png)
 
 ## Range validation
 
