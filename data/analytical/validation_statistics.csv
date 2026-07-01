@@ -1,0 +1,6 @@
+metric,MPI_historical,CMCC_historical
+KGE,0.0327,-0.6724
+r,0.0916,0.1304
+alpha,1.0119,1.2462
+beta,1.332,2.4071
+RMSE,6.1834,6.9967
